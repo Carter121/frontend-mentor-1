@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://frontend-mentor-1-eta.vercel.app/)
+- Solution URL: [frontend-mentor-1-eta.vercel.app](https://frontend-mentor-1-eta.vercel.app/)
 
 ## My process
 
